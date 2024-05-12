@@ -1,4 +1,4 @@
-# Hey There! I'm Nabil Arrouss, a graduating Senior in Computer Science (BSc) with a deep-seated passion for Data Science, Machine Learning, and Software Engineering. Welcome to my GitHub profile, where you'll find a collection of projects and programs reflecting my journey through the realms of technology and innovation.
+## Hey There! I'm Nabil Arrouss, a graduating Senior in Computer Science (BSc) with a deep-seated passion for Data Science, Machine Learning, and Software Engineering. Welcome to my GitHub profile, where you'll find a collection of projects and programs reflecting my journey through the realms of technology and innovation.
 
 ## About Me
 
