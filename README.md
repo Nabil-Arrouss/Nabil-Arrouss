@@ -14,6 +14,8 @@ My repositories are a mix of projects and programs written in various languages,
 - **Python**
 - **MATLAB**
 - **PHP**
+- **JavaScript**
+- **Machine Learning**: Some repositories are dedicated to machine learning projects.
 - ... and many more to come!
 
 ## Get in Touch
