@@ -15,7 +15,7 @@ My repositories are a mix of projects and programs written in various languages,
 - **MATLAB**
 - **PHP**
 - ... and many more to come!
-- 
+
 ## Get in Touch
 
 I'm always open to collaboration and feedback. Feel free to reach out to me through the following channels:
