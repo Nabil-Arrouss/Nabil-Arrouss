@@ -1,4 +1,4 @@
-### Hey there! I'm Nabil Arrouss, currently pursuing my Master's in Artificial Intelligence & Data Science. Passionate about ML, Data Engineering, and Software Development, I thrive on turning complex problems into scalable solutions. Welcome to my GitHub profile, where you'll find a collection of projects and programs that showcase my journey through the realms of technology and innovation.
+### Hey there! I'm Nabil Arrouss, currently pursuing my Master's in Artificial Intelligence & Data Science. Passionate about Machine Learning, Deep Learning, and Software Development, I thrive on turning complex problems into scalable solutions. Welcome to my GitHub profile, where you'll find a collection of projects and programs that showcase my journey through the realms of technology and innovation.
 
 ## About Me
 
