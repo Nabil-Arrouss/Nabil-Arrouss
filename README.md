@@ -16,6 +16,19 @@ Welcome to my GitHub profile — a collection of projects and programs that show
 
 ---
 
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+</p>
+
+---
+
 ## 📂 What You'll Find Here
 
 My repositories are a mix of projects and programs written in various languages, with a focus on:
@@ -35,8 +48,14 @@ My repositories are a mix of projects and programs written in various languages,
 I'm always open to collaboration and feedback.  
 Feel free to reach out to me through the following channels:
 
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/nabilarrouss/)  
-- 📧 **Email:** nabilarrouss@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/nabilarrouss/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nabil%20Arrouss-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nabilarrouss@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nabilarrouss%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
