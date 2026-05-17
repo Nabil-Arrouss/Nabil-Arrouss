@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm **Nabil Arrouss**
 
 🎓 **Master’s Student in Artificial Intelligence & Data Science**  
-💡 Passionate about **Data Science**, **Machine Learning**, and **Software Development**.  
+💡 Passionate about **AI**, **Machine Learning**, and **Software Development**.  
 I thrive on turning complex problems into scalable solutions.  
 
 Welcome to my GitHub profile — a collection of projects and programs that showcase my journey through the realms of **technology** and **innovation**.
@@ -11,7 +11,7 @@ Welcome to my GitHub profile — a collection of projects and programs that show
 ## 🧠 About Me
 
 - 🎓 **Artificial Intelligence & Data Science (MSc)**  
-- 💻 Passionate about **Data Science**, **Machine Learning**, and **Software Engineering**  
+- 💻 Passionate about **AI**, **Machine Learning**, and **Software Engineering**  
 - 🌱 Always eager to **learn and explore new technologies**
 
 ---
@@ -38,7 +38,8 @@ My repositories are a mix of projects and programs written in various languages,
 - 🐘 **PHP**  
 - ⚡ **JavaScript**  
 - 🧮 **MATLAB**  
-- 🤖 **Machine Learning**: Some repositories are dedicated to machine learning projects.  
+- 🤖 **Machine Learning**
+- 🧠 **Agentic AI**
 - ... and many more to come!
 
 ---
